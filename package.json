@@ -43,7 +43,6 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.1",
     "react-dom": "^18.2.0",
-    "react-facebook-login": "^4.1.1",
     "react-google-login": "^5.2.2",
     "react-i18next": "^14.1.0",
     "react-icons": "^5.0.1",
@@ -87,5 +86,9 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/bootstrap": "^5.2.10"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/AbdulrhmanAdel/React-Cara-shop.git",
+  "author": "Abdulrahman Adel <abdulrhmanadel@outlook.com>",
+  "license": "MIT"
 }
